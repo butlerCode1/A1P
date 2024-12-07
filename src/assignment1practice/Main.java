@@ -8,6 +8,7 @@ public class Main {
 	public static void main(String[] args) {
 		
 		//initialize the matrix
+		int section = 1;
 		int nodes = 9;
 		Matrix m = new Matrix(nodes);
 		
